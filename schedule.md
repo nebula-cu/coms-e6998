@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
+nav_order: 2
+permalink: /schedule
+description: Listing of topics covered weekly.
 ---
 
-# Weekly Schedule
+# Schedule
 
-{% for schedule in site.schedules %}
-{{ schedule }}
+{% for module in site.modules %}
+{{ module }}
 {% endfor %}
