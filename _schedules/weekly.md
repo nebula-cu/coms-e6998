@@ -64,8 +64,8 @@ schedule:
       #   start: 11:30 AM
       #   end: 12:30 PM
       #   location: 310 Soda
-      # - name: Office Hours
-      #   start: 12:30 PM
-      #   end: 2:00 PM
-      #   location: 271 Soda
+      - name: Office Hours
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Vahab - 6LW5 CEPSR
 ---
