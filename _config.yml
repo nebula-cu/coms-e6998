@@ -18,7 +18,7 @@ tagline: A course website on Cloud Computing @ CUCS
 description: COMS-E6998 Cloud Computing @ CS, Columbia University
 author: Vahab Jabrayilov
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://cu-nebula.github.io/cu-cloud' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://cu-nebula.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE","vendor"]
 favicon_ico: /assets/images/favicon.ico
 # Theme settings
