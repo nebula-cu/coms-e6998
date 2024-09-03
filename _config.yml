@@ -27,11 +27,6 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-# aux_links:
-#   Vahab Jabrayilov:
-#     - 'https://vjabrayilov.github.io'
-#   Nebula on GitHub:
-#     - 'https://cu-nebula.github.io'
 footer_content:
   - '© 2024 Nebula CS@CU'
 # External navigation links
