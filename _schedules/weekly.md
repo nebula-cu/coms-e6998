@@ -35,11 +35,16 @@ schedule:
     #     location: 271 Soda
   - name: Tuesday
   - name: Wednesday
-    # events:
-    #   - name: Lecture
-    #     start: 9:30 AM
-    #     end: 10:30 AM
-    #     location: 150 Wheeler
+      # events:
+      #   - name: Office Hours
+      #     start: 4:00 PM
+      #     end: 5:00 PM
+      #     location: Kent Hall 411
+    events:
+      - name: Office Hours
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Kostis - 624 CEPSR
     #   - name: Section
     #     start: 11:30 AM
     #     end: 12:30 PM
@@ -54,7 +59,7 @@ schedule:
       - name: Lecture
         start: 10:10 AM
         end: 12:00 PM
-        location: TBD
+        location: Kent Hall 411 
       # - name: Section
       #   start: 11:30 AM
       #   end: 12:30 PM

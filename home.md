@@ -25,7 +25,7 @@ seo:
 <table>
   <tr>
     <td><i>Time:</i> Fridays, 10:10am-12:00pm</td>
-    <td><i>Location:</i> TBD</td>
+    <td><i>Location:</i> Kent Hall 411</td>
   </tr>
 </table>
 
@@ -48,6 +48,6 @@ Appropriate for EE/CS graduate or advanced undergraduates that have taken <i>Ope
 <p style="text-align: justify; padding-left: 0;">
 Reading, writing about, and discussing research papers.
 Short presentations. Research projects in small groups. Participation will be required.
-The grading rubric will be <b>50%</b> <i>project</i>, <b>25%</b> <i>participation</i>, and <b>25%</b> <i>paper</i> presentations and summaries
+The grading rubric will be <b>50%</b> <i>project</i>, <b>25%</b> <i>participation</i>, and <b>25%</b> <i>paper</i> presentations and summaries.
 </p>
 
