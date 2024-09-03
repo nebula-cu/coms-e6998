@@ -37,7 +37,7 @@ footer_content:
 # External navigation links
 nav_external_links:
   - title: Syllabus
-    url: "https://github.com/nebula-cu/coms-e6998/blob/main/assets/syllabus.pdf" #/assets/syllabus.pdf #https://ds100.org/course-notes/
+    url:  /assets/syllabus.pdf #https://ds100.org/course-notes/
     # hide_icon: true
     opens_in_new_tab: true
 
