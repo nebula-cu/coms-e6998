@@ -8,7 +8,7 @@ seo:
   name: COMS E6998 Cloud Computing 
 ---
 
-# COMS E6998 Spcial Topics in Computer Science: Cloud Computing 
+# COMS E6998 Special Topics in Computer Science: Cloud Computing 
 
 #### Columbia University, Fall 2024
 
