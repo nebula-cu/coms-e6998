@@ -24,7 +24,7 @@ seo:
 <!-- ## Time and Place -->
 <table>
   <tr>
-    <td><i>Time:</i> 10:10am-12:00pm</td>
+    <td><i>Time:</i> Fridays, 10:10am-12:00pm</td>
     <td><i>Location:</i> TBD</td>
   </tr>
 </table>
