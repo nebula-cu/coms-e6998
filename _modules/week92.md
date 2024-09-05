@@ -1,5 +1,5 @@
 ---
-title: "Systems for Machine Learning: Models and the things around them"
+title: "Analytics Systems"
 ---
 Nov 22
 : [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
