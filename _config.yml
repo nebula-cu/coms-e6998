@@ -40,6 +40,9 @@ nav_external_links:
     url: https://courseworks2.columbia.edu/courses/203132
     # hide_icon: true
     opens_in_new_tab: true
+  - title: Projects
+    url: https://docs.google.com/document/d/1l4CtFSUZSSPdNe3yGgpsSEhd7Y16U39NtBP7RZzxMH8/pub
+    opens_in_new_tab: true
 
 
 # Collections for website data
