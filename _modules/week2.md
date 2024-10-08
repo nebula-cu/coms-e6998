@@ -2,6 +2,7 @@
 title: Cluster Management
 ---
 Sep 13
+ [**Slides**{: .label .label-blue }](https://docs.google.com/presentation/d/1VWOyFgMQ8F0VDktUecI1mgvALNkg6Hm69TQoNtmcIsI/edit?usp=sharing)
 : [Borg: The next generation](https://dl.acm.org/doi/abs/10.1145/3342195.3387517)
 : [Twine: A Unified Cluster Management System for Shared Infrastructure](https://www.usenix.org/conference/osdi20/presentation/tang)
 : [Protean: VM Allocation Service at Scale](https://www.usenix.org/system/files/osdi20-hadary.pdf)
