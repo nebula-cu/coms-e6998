@@ -1,5 +1,5 @@
 ---
-title: "Systems for Machine Learning: Training"
+title: "Systems for Machine Learning: Models and the things around them"
 --- 
 Nov 8
 : [DSPy: Compiling Declarative Language Model Calls Into Self-Improving Pipelines](https://arxiv.org/pdf/2310.03714)
