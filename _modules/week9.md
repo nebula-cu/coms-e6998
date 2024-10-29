@@ -1,5 +1,5 @@
 ---
-title: "Systems for Machine Learning: Models and the things around them"
+title: "Systems for Machine Learning: Training"
 ---
 Nov 1
 : [Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM](https://deepakn94.github.io/assets/papers/megatron-sc21.pdf)
