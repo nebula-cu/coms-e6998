@@ -51,3 +51,17 @@ Short presentations. Research projects in small groups. Participation will be re
 The grading rubric will be <b>50%</b> <i>project</i>, <b>25%</b> <i>participation</i>, and <b>25%</b> <i>paper</i> presentations and summaries.
 </p>
 
+## Project Instructions
+
+### Final Presentations
+<p style="text-align: justify; padding-left: 0;">
+Your presentation slot is 12min but we strongly suggest you prepare for a 10min presentation and leave time for questions. We will strictly enforce time, so please practice!
+We suggest the following outline for your talk:
+1. The problem
+1. The idea
+1. Design and implementation (1-2 slides)
+1. What works/status
+1. A key measurement/experiment
+
+Feel free to deviate from this outline, but make sure you stick to the main points (and do not try to cover all your results). You can choose to have a single team member give the talk or have multiple members alternate. Please email your slides to Kostis and Vahab. *Note:* the presentation is not the final deliverable of your project. It is a way to get feedback on important issues you should address in your report.
+</p>
