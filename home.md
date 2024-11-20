@@ -68,5 +68,16 @@ We suggest the following outline for your talk:
 1. A key measurement/experiment
 
 <p style="text-align: justify; padding-left: 0;">
-Feel free to deviate from this outline, but make sure you stick to the main points (and do not try to cover all your results). You can choose to have a single team member give the talk or have multiple members alternate. Please email your slides to Kostis and Vahab. *Note:* the presentation is not the final deliverable of your project. It is a way to get feedback on important issues you should address in your report.
+Feel free to deviate from this outline, but make sure you stick to the main points (and do not try to cover all your results). You can choose to have a single team member give the talk or have multiple members alternate. Please email your slides to Kostis and Vahab.
 </p>
+
+*Note:* the presentation is not the final deliverable of your project. It is a way to get feedback on important issues you should address in your report.
+
+### Project Report
+Email a 5-6 page project report by Dec 31st at 23:59PM ET to Kostis Kaffes. We strongly encourage earlier submissions if possible, especially if you are graduating! We recommend using the [ACM SIGPLAN template](http://overleaf.com/latex/templates/association-for-computing-machinery-acm-sigplan-proceedings-template/rfvsrhgmghtc), but any sane single-spaced, two-column layout will be accepted. Though you can adjust as needed, we recommend the following report structure:
+
+- Introduction -- 1 page
+- Motivation/Background/Related Work -- 1 page
+- Design/Implementation -- 1.5-2 pages
+- Evaluation -- 1-1.5 pages
+- Discussion/Limitations/Next Steps: 0.5 page
